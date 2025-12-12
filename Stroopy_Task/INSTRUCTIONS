@@ -1,0 +1,100 @@
+korean
+
+instructionsSTART
+당신의 임무는 제시된 단어의 색상을 최대한 정확하고 빠르게 결정하는 것 입니다.
+색상이 지정된 단어의 양쪽에 하나씩, 총 두개의 선택이 제공됩니다.
+왼쪽이 정답이라면 X 버튼을 누르고, 오른쪽이 정답이라면 M 버튼을 누르세요.
+
+
+
+아래 예에서는 단어가 녹색으로 표시되므로 X(왼쪽)를 누릅니다.
+
+instructionsEND
+
+practiceSTART
+실제 테스트를 시작하기 전에 6번의 시험을 테스트하려면 SPACE를 누르세요.
+practiceEND
+
+testSTART
+정답 입니다!
+
+
+궁금하신 점은 지금 바로 실험관리자에게 문의해주세요.
+
+
+가능한 한 빠르고 정확하게 답변하도록 노력하십시오.
+
+
+실험을 시작하려면 SPACE를 누르세요.
+testEND
+
+doneSTART
+실험이 끝났습니다,
+
+
+실험 리더에게 알려주세여.
+
+
+실험을 종료하려면 스페이스바를 누르세요
+doneEND
+
+rightSTART
+정답!
+rightEND
+
+incorrectSTART
+틀렸습니다! 그것은 단어의 색상과 부정확합니다.
+incorrectEND
+
+koreanEnd
+
+English
+instructionsSTART
+Your task is to as accurately and quickly as possible to determine the color of a presented word.
+You get two options, one on each side of the colored word.
+Use the X button if the right option is the left, and the M-key if right option is to the right.
+
+
+
+In the example below, you would then press the X (left), as the word is presented in the color green.
+instructionsEND
+
+practiceSTART
+Press SPACE to test six trials before the start of the actual test.
+practiceEND
+
+testSTART
+Good work!
+
+
+If you have any questions, please ask experimenter leader now.
+
+
+Try to answer as quickly and accurately as possible.
+
+
+Press the SPACE to start the experiment.
+testEND
+
+
+doneSTART
+The experiment is done,
+
+
+Please notify the experimental leader
+
+
+Press space to end the experiment
+doneEND
+
+rightSTART
+Correct!
+rightEND
+
+incorrectSTART
+Incorrect! It is the color not the word
+incorrectEND
+
+EnglishEnd
+
+
